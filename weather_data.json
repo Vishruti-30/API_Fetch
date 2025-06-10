@@ -1,0 +1,32 @@
+{
+    "Toronto": {
+        "temperature": 16.71,
+        "description": "broken clouds",
+        "humidity": 85,
+        "wind_speed": 8.05
+    },
+    "New York": {
+        "temperature": 17.19,
+        "description": "mist",
+        "humidity": 92,
+        "wind_speed": 4.12
+    },
+    "London": {
+        "temperature": 14.4,
+        "description": "overcast clouds",
+        "humidity": 79,
+        "wind_speed": 7.2
+    },
+    "Paris": {
+        "temperature": 11.82,
+        "description": "clear sky",
+        "humidity": 90,
+        "wind_speed": 1.54
+    },
+    "Tokyo": {
+        "temperature": 20.6,
+        "description": "moderate rain",
+        "humidity": 88,
+        "wind_speed": 1.03
+    }
+}
