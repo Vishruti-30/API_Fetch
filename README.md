@@ -61,7 +61,7 @@ To automate the collection of live weather data for a list of cities and store i
 ```
 weather-api-project/
 │
-├── weather_collector.py   # Main script
+├── weather_data.py   # Main script
 └── weather_data.json      # Output file (generated after run)
 ```
 
